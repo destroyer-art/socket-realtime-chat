@@ -21,9 +21,8 @@ Try live demo: [https://typescript-chat.firebaseapp.com](https://typescript-chat
 # Support this project
 - Star GitHub repository :star:
 - Create pull requests, submit bugs or suggest new features
-- Follow updates on [Twitter](https://twitter.com/luixaviles) or [Github](https://github.com/luixaviles)
+- Follow updates on [Twitter](https://twitter.com/luixaviles) or [Github](https://github.com/destroyer-art)
 
-![](https://luixaviles.com/assets/images/posts/typescript-chat/typescript-chat.gif?raw=true)
 
 # Running Server and Client locally
 ## Prerequisites
@@ -41,7 +40,7 @@ After that, use `Git bash` to run all commands if you are on Windows platform.
 In order to start the project use:
 
 ```bash
-$ git clone https://github.com/luixaviles/socket-io-typescript-chat.git
+$ git clone https://github.com/destroyer-art/socket-io-typescript-chat.git
 $ cd socket-io-typescript-chat
 ```
 
